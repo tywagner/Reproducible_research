@@ -27,7 +27,7 @@ library(fontawesome)
 
 # About
 
-This is a draft outline of a course being developed on the fundamentals of reproducible research at  [The Pennsylvania State University](https://ecosystems.psu.edu/). 
+This is a draft course outline being developed on the fundamentals of reproducible research at [The Pennsylvania State University](https://ecosystems.psu.edu/). 
 
 ## Contact information
 Dr. Tyler Wagner
