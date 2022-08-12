@@ -1,11 +1,2 @@
-# Hello bookdown 
-
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
-
-## A section
-
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
-
-### An unnumbered section {-}
-
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+# Course motivation 
+Reproducibility is the cornerstone of scientific research and is the primary means by which scientists and the general public gain confidence in conclusions draw from scientific research. The rapid growth of the internet and resulting growth of "fake news" and "fake research" has contributed to a credibility crisis [@mcgee2020fake]. Scientific transparency and reproducibility are essential to increasing credibility of scientific research. Open science (OS) refers to a suite of best practices, approaches, and tools that can be used to conduct and share research.  The goal of OS is to enhance the transparency of research workflows and reproducibility of scientific findings [@munafo2017manifesto, @elliott2019making]. This course will review the current state of OS, why it is important, and the challenges and benefits of implementing OS. The course will also discuss workflows and programs that can facilitate implementing OS -- including code and data best practices, data provenance, sharing research, and manuscript creation.
