@@ -32,9 +32,9 @@ This is a draft course outline being developed on the fundamentals of reproducib
 ## Contact information
 Dr. Tyler Wagner
 
-`r fa("phone")` 814-85-6592
+`r fa("phone")` 814-865-6592
 
-[Email](mailto:txw19@psu.edu)
+[txw19@psu.edu](mailto:txw19@psu.edu)
 
 
 ```{r include=FALSE}
