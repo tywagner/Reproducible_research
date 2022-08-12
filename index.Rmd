@@ -17,7 +17,7 @@ github-repo: rstudio/bookdown-demo
 
 # About
 
-This is a draft outline of a course being developed on the fundamentals of reproducible research. 
+This is a draft outline of a course being developed on the fundamentals of reproducible research at The Pennsylvania State University. 
 
 
 
