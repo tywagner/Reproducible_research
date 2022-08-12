@@ -12,5 +12,60 @@ library(fontawesome)
 
 # Tentative outline 
 
-`r fa("r-project", fill = "steelblue")` and `r fa("github")`
 
+## Meeting times
+The class will meet M, W 9:05am - 9:55am. Room TBD. 
+
+## Course objective
+The objective of this course is to provide an overview of OS and an introduction to the tools that can be used to facilitate practicing OS during graduate research and beyond. 
+
+
+## Course format
+The course will consist of student-led paper discussions, lectures, and student computer exercises. A final project will focus on using the discussed tools and workflows to create an OS project template that can be used for future projects.
+
+## Tentative course outline (general themes to cover)
+* What is open science and reproducible research?
+
+    - Readings: [@powers2019open; @alston2021beginner]
+
+* Is there an OS/science credibility problem?
+
+    - Readings: [@baker20161; @mandeville2021open]
+
+* Why now? Why is reproducible research important?
+
+    - Readings: [@light2022knowledge; @munafo2017manifesto]
+
+* Addressing open science and data privacy concerns
+
+    - Readings: [@zipper2019balancing]
+    
+* Challenges and benefits of implementing OS
+
+    - Readings: [@allen2019open; @bahlai2019open; @fleming2021open]
+    
+* Obligations/requirements for federally funded projects
+
+* Best practices for reproducible code
+
+    - Readings: [@wilson2017good]
+    
+* Data provenance
+
+    - Metadata
+    - Data releases
+    - Data repositories [Zenodo](https://zenodo.org/), [Dryad]({https://datadryad.org/stash), [ScienceBase](https://www.sciencebase.gov/catalog/), etc.
+
+* Tools of the trade `r fa("toolbox")`
+
+    - [RStudio](https://www.rstudio.com/) `r fa("r-project", fill = "steelblue")` 
+    - [GitHub](https://github.com) `r fa("github")`
+    - [Markdown](www.markdownguide.org/) `r fa("markdown")`
+    - [LaTex](https://www.latex-project.org/)
+    - [Overleaf](https://www.overleaf.com)
+
+* Final project
+
+    - The final project is an opportunity for students to work through most of the workflow and tools discussed above to create a template for use during their graduate research and beyond. The project will include using Git with RStudio and using markdown and LaTeX to create a document -- fully reproducible reports, manuscripts, etc. 
+    
+ 

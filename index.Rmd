@@ -15,10 +15,26 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
+```{r, echo=FALSE,warning=FALSE, message=FALSE}
+# Load required packages
+# Install webshot and phantomjs for building non-HTML documents
+# install.packages('webshot')
+# webshot::install_phantomjs()
+
+library(fontawesome)
+# devtools::install_github("hadley/emo")
+```
+
 # About
 
-This is a draft outline of a course being developed on the fundamentals of reproducible research at The Pennsylvania State University. 
+This is a draft outline of a course being developed on the fundamentals of reproducible research at  [The Pennsylvania State University](https://ecosystems.psu.edu/). 
 
+## Contact information
+Dr. Tyler Wagner
+
+`r fa("phone")` 814-85-6592
+
+[Email](mailto:txw19@psu.edu)
 
 
 ```{r include=FALSE}
