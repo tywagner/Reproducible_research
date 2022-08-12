@@ -1,2 +1,16 @@
-# Course motivation 
-Reproducibility is the cornerstone of scientific research and is the primary means by which scientists and the general public gain confidence in conclusions draw from scientific research. The rapid growth of the internet and resulting growth of "fake news" and "fake research" has contributed to a credibility crisis [@mcgee2020fake]. Scientific transparency and reproducibility are essential to increasing credibility of scientific research. Open science (OS) refers to a suite of best practices, approaches, and tools that can be used to conduct and share research.  The goal of OS is to enhance the transparency of research workflows and reproducibility of scientific findings [@munafo2017manifesto, @elliott2019making]. This course will review the current state of OS, why it is important, and the challenges and benefits of implementing OS. The course will also discuss workflows and programs that can facilitate implementing OS -- including code and data best practices, data provenance, sharing research, and manuscript creation.
+```{r, echo=FALSE,warning=FALSE, message=FALSE}
+# Load required packages
+# Install webshot and phantomjs for building non-HTML documents
+# install.packages('webshot')
+# webshot::install_phantomjs()
+
+library(fontawesome)
+# devtools::install_github("hadley/emo")
+```
+
+<!-- emo::ji_find("arrow") -->
+
+# Tentative outline 
+
+`r fa("r-project", fill = "steelblue")` and `r fa("github")`
+
