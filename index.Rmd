@@ -19,9 +19,6 @@ github-repo: rstudio/bookdown-demo
 
 This is a draft outline of a course being developed on the fundamentals of reproducible research. 
 
-```{r eval=FALSE}
-bookdown::serve_book()
-```
 
 
 ```{r include=FALSE}
