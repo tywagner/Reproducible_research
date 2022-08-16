@@ -23,7 +23,7 @@ The objective of this course is to provide an overview of OS and an introduction
 ## Course format
 The course will consist of student-led paper discussions, lectures, and student computer exercises. A final project will focus on using the discussed tools and workflows to create an OS project template that can be used for future projects.
 
-## Tentative course outline (general themes to cover)
+## Tentative course outline (primary themes to cover)
 * What is open science and reproducible research?
 
     - Readings: [@powers2019open; @alston2021beginner]
@@ -49,12 +49,21 @@ The course will consist of student-led paper discussions, lectures, and student 
 * Best practices for reproducible code
 
     - Readings: [@wilson2017good]
-    
-* Data provenance
+
+* Practicing OS [@stodden2014implementing]
+
+  - Open data
+  - Open source
+  - Open access
+  - Open standards
+
+* Open data, data provenance
 
     - Metadata
     - Data releases
-    - Data repositories [Zenodo](https://zenodo.org/), [Dryad]({https://datadryad.org/stash), [ScienceBase](https://www.sciencebase.gov/catalog/), etc.
+    - Data and code repositories [Zenodo](https://zenodo.org/), [Dryad](https://datadryad.org/stash), [ScienceBase](https://www.sciencebase.gov/catalog/), [RunMyCode](http://www.runmycode.org/), etc.
+    
+* Reproducible research life-cycle: document generation systems (including data analysis), version control, collaborate, communicate, educate
 
 * Tools of the trade `r fa("toolbox")`
 
@@ -66,6 +75,6 @@ The course will consist of student-led paper discussions, lectures, and student 
 
 * Final project
 
-    - The final project is an opportunity for students to work through most of the workflow and tools discussed above to create a template for use during their graduate research and beyond. The project will include using Git with RStudio and using markdown and LaTeX to create a document -- fully reproducible reports, manuscripts, etc. 
+    - The final project is an opportunity for students to work through most of the workflow and tools discussed above to create a template for use during their graduate research and beyond. The project will include using Git with RStudio and using markdown and LaTeX to create a document -- fully reproducible report, manuscript, etc. 
     
  
