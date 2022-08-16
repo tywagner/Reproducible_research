@@ -1,0 +1,8 @@
+about
+contact-information
+course-motivation
+tentative-outline
+meeting-times
+course-objective
+course-format
+tentative-course-outline-primary-themes-to-cover
