@@ -48,7 +48,7 @@ The course will consist of student-led paper discussions, lectures, and student 
 
 * Best practices for reproducible code
 
-    - Readings: [@wilson2017good]
+    - Readings: [@wilson2017good; @filazzola2022call]
 
 * Practicing OS [@stodden2014implementing]
 
